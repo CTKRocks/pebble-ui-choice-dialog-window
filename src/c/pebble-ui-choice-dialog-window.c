@@ -1,5 +1,5 @@
 #include <pebble.h>
-#include "./ui-choice-dialog-window.h"
+#include "ui-choice-dialog-window.h"
 
 // Private Methods
 static void prv_choice_dialog_window_update_ui(UIChoiceDialogWindow* this) {
